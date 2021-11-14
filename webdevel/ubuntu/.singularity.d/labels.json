@@ -1,0 +1,10 @@
+{
+	"org.label-schema.build-arch": "amd64",
+	"org.label-schema.build-date": "Sunday_14_November_2021_14:20:49_GMT",
+	"org.label-schema.schema-version": "1.0",
+	"org.label-schema.usage.singularity.deffile.bootstrap": "library",
+	"org.label-schema.usage.singularity.deffile.from": "ubuntu",
+	"org.label-schema.usage.singularity.deffile.mirrorurl": "http://us.archive.ubuntu.com/ubuntu/",
+	"org.label-schema.usage.singularity.deffile.osversion": "hirsute",
+	"org.label-schema.usage.singularity.version": "3.8.3-1.fc34"
+}

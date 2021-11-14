@@ -1,0 +1,5 @@
+
+Start-Date: 2021-08-02  18:59:51
+Commandline: apt-get -y upgrade
+Upgrade: libnettle8:amd64 (3.7-2.1ubuntu1, 3.7-2.1ubuntu1.1), libsystemd0:amd64 (247.3-3ubuntu3, 247.3-3ubuntu3.4), libudev1:amd64 (247.3-3ubuntu3, 247.3-3ubuntu3.4), libhogweed6:amd64 (3.7-2.1ubuntu1, 3.7-2.1ubuntu1.1), gcc-11-base:amd64 (11-20210417-1ubuntu1, 11.1.0-1ubuntu1~21.04), liblz4-1:amd64 (1.9.3-1build1, 1.9.3-1ubuntu0.1), libstdc++6:amd64 (11-20210417-1ubuntu1, 11.1.0-1ubuntu1~21.04), libgcc-s1:amd64 (11-20210417-1ubuntu1, 11.1.0-1ubuntu1~21.04)
+End-Date: 2021-08-02  18:59:51

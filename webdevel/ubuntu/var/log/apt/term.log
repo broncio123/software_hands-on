@@ -1,0 +1,36 @@
+
+Log started: 2021-08-02  18:59:51
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 4191 files and directories currently installed.)
+Preparing to unpack .../libsystemd0_247.3-3ubuntu3.4_amd64.deb ...
+Unpacking libsystemd0:amd64 (247.3-3ubuntu3.4) over (247.3-3ubuntu3) ...
+Setting up libsystemd0:amd64 (247.3-3ubuntu3.4) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 4191 files and directories currently installed.)
+Preparing to unpack .../gcc-11-base_11.1.0-1ubuntu1~21.04_amd64.deb ...
+Unpacking gcc-11-base:amd64 (11.1.0-1ubuntu1~21.04) over (11-20210417-1ubuntu1) ...
+Setting up gcc-11-base:amd64 (11.1.0-1ubuntu1~21.04) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 4191 files and directories currently installed.)
+Preparing to unpack .../libstdc++6_11.1.0-1ubuntu1~21.04_amd64.deb ...
+Unpacking libstdc++6:amd64 (11.1.0-1ubuntu1~21.04) over (11-20210417-1ubuntu1) ...
+Setting up libstdc++6:amd64 (11.1.0-1ubuntu1~21.04) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 4191 files and directories currently installed.)
+Preparing to unpack .../libgcc-s1_11.1.0-1ubuntu1~21.04_amd64.deb ...
+Unpacking libgcc-s1:amd64 (11.1.0-1ubuntu1~21.04) over (11-20210417-1ubuntu1) ...
+Setting up libgcc-s1:amd64 (11.1.0-1ubuntu1~21.04) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 4191 files and directories currently installed.)
+Preparing to unpack .../liblz4-1_1.9.3-1ubuntu0.1_amd64.deb ...
+Unpacking liblz4-1:amd64 (1.9.3-1ubuntu0.1) over (1.9.3-1build1) ...
+Setting up liblz4-1:amd64 (1.9.3-1ubuntu0.1) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 4191 files and directories currently installed.)
+Preparing to unpack .../libudev1_247.3-3ubuntu3.4_amd64.deb ...
+Unpacking libudev1:amd64 (247.3-3ubuntu3.4) over (247.3-3ubuntu3) ...
+Setting up libudev1:amd64 (247.3-3ubuntu3.4) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 4191 files and directories currently installed.)
+Preparing to unpack .../libnettle8_3.7-2.1ubuntu1.1_amd64.deb ...
+Unpacking libnettle8:amd64 (3.7-2.1ubuntu1.1) over (3.7-2.1ubuntu1) ...
+Setting up libnettle8:amd64 (3.7-2.1ubuntu1.1) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 4191 files and directories currently installed.)
+Preparing to unpack .../libhogweed6_3.7-2.1ubuntu1.1_amd64.deb ...
+Unpacking libhogweed6:amd64 (3.7-2.1ubuntu1.1) over (3.7-2.1ubuntu1) ...
+Setting up libhogweed6:amd64 (3.7-2.1ubuntu1.1) ...
+Processing triggers for libc-bin (2.33-0ubuntu5) ...
+Log ended: 2021-08-02  18:59:51
