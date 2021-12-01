@@ -1,0 +1,114 @@
+REM  -------------------- Secondary structure summary -------------------  ~~~~
+REM                                                                        ~~~~
+CHN  1yrf_chain_a.pdb A                                                    ~~~~
+REM                                                                        ~~~~
+REM                .         .         .                                   ~~~~
+SEQ  1    LSDEDFKAVFGMTRSAFANLPLWKQQHLKKEKGLF                  35          ~~~~
+STR         HHHHHHHH   HHHHHH  HHHHHHHHHHH                                 ~~~~
+REM                                                                        ~~~~
+REM                                                                        ~~~~
+REM                                                                        ~~~~
+LOC  AlphaHelix   ASP    44 A      PHE     51 A                            ~~~~
+LOC  AlphaHelix   ARG    55 A      ASN     60 A                            ~~~~
+LOC  AlphaHelix   LEU    63 A      LYS     73 A                            ~~~~
+REM                                                                        ~~~~
+REM  --------------- Detailed secondary structure assignment-------------  ~~~~
+REM                                                                        ~~~~
+REM  |---Residue---|    |--Structure--|   |-Phi-|   |-Psi-|  |-Area-|      ~~~~
+ASG  LEU A   42    1    C          Coil    360.00    159.39     106.9      ~~~~
+ASG  SER A   43    2    C          Coil    -64.88    163.04      59.9      ~~~~
+ASG  ASP A   44    3    H    AlphaHelix    -66.50    -35.15     110.2      ~~~~
+ASG  GLU A   45    4    H    AlphaHelix    -64.46    -46.64     140.9      ~~~~
+ASG  ASP A   46    5    H    AlphaHelix    -62.02    -40.42      86.8      ~~~~
+ASG  PHE A   47    6    H    AlphaHelix    -58.12    -47.57       5.2      ~~~~
+ASG  LYS A   48    7    H    AlphaHelix    -61.32    -38.24     111.8      ~~~~
+ASG  ALA A   49    8    H    AlphaHelix    -62.83    -47.72      81.3      ~~~~
+ASG  VAL A   50    9    H    AlphaHelix    -67.75    -45.54      55.0      ~~~~
+ASG  PHE A   51   10    H    AlphaHelix   -101.73     -6.51      25.0      ~~~~
+ASG  GLY A   52   11    C          Coil     74.10     18.16      64.1      ~~~~
+ASG  MET A   53   12    C          Coil   -164.78    165.12      61.9      ~~~~
+ASG  THR A   54   13    C          Coil    -71.57    164.13      75.0      ~~~~
+ASG  ARG A   55   14    H    AlphaHelix    -54.29    -42.93      95.4      ~~~~
+ASG  SER A   56   15    H    AlphaHelix    -59.83    -44.35      88.7      ~~~~
+ASG  ALA A   57   16    H    AlphaHelix    -61.72    -47.68      37.2      ~~~~
+ASG  PHE A   58   17    H    AlphaHelix    -59.33    -34.56       5.2      ~~~~
+ASG  ALA A   59   18    H    AlphaHelix    -66.39    -14.92      59.0      ~~~~
+ASG  ASN A   60   19    H    AlphaHelix    -83.39    -11.01     141.2      ~~~~
+ASG  LEU A   61   20    C          Coil    -74.92    159.29      48.0      ~~~~
+ASG  PRO A   62   21    C          Coil    -53.77    146.26      63.2      ~~~~
+ASG  LEU A   63   22    H    AlphaHelix    -59.79    -42.37     138.2      ~~~~
+ASG  TRP A   64   23    H    AlphaHelix    -62.71    -32.50     165.1      ~~~~
+ASG  LYS A   65   24    H    AlphaHelix    -73.62    -39.81      81.2      ~~~~
+ASG  GLN A   66   25    H    AlphaHelix    -57.44    -44.93      37.9      ~~~~
+ASG  GLN A   67   26    H    AlphaHelix    -60.64    -48.55     111.4      ~~~~
+ASG  HIS A   68   27    H    AlphaHelix    -57.58    -48.37      84.1      ~~~~
+ASG  LEU A   69   28    H    AlphaHelix    -65.66    -38.63      46.0      ~~~~
+ASG  LYS A   70   29    H    AlphaHelix    -65.11    -47.00      48.5      ~~~~
+ASG  LYS A   71   30    H    AlphaHelix    -62.78    -39.04     126.1      ~~~~
+ASG  GLU A   72   31    H    AlphaHelix    -59.41    -28.40     139.1      ~~~~
+ASG  LYS A   73   32    H    AlphaHelix    -96.22      7.43     122.9      ~~~~
+ASG  GLY A   74   33    C          Coil     73.25     21.47      64.9      ~~~~
+ASG  LEU A   75   34    C          Coil   -115.87    167.29      51.9      ~~~~
+ASG  PHE A   76   35    C          Coil   -115.87    360.00     225.0      ~~~~
+REM                                                                        ~~~~
+REM  ------------------ Mainchain hydrogen bonds ------------------------  ~~~~
+REM                                                                        ~~~~
+REM  Definition of Stickle et al., J.Mol.Biol. 226:1143-1159, 1992         ~~~~
+REM  A1 is the angle between the planes of donor complex and O..N-C        ~~~~
+REM  A2 is the angle between the planes of acceptor complex and N..O=C     ~~~~
+REM                                                                        ~~~~
+HBT  25                                                                    ~~~~
+HBI  0                                                                     ~~~~
+HBC  25      1yrf_chain_a.pdb A   35                                       ~~~~
+REM                                                                        ~~~~
+REM  |--Residue 1--|     |--Residue 2--|  N-O N..O=C O..N-C     A1     A2  ~~~~
+ACC  SER A   43    1 ->  PHE A   47    5  3.0  158.2  121.1   13.9   63.2  ~~~~
+ACC  ASP A   44    2 ->  LYS A   48    6  3.0  149.5  121.9   11.7   73.8  ~~~~
+ACC  GLU A   45    3 ->  ALA A   49    7  3.1  152.3  119.5   17.1   56.5  ~~~~
+ACC  ASP A   46    4 ->  VAL A   50    8  3.0  157.9  120.3   13.3   65.5  ~~~~
+DNR  PHE A   47    5 ->  SER A   43    1  3.0  158.2  121.1   13.9   63.2  ~~~~
+ACC  PHE A   47    5 ->  PHE A   51    9  3.0  162.9  124.3   11.5   83.4  ~~~~
+DNR  LYS A   48    6 ->  ASP A   44    2  3.0  149.5  121.9   11.7   73.8  ~~~~
+ACC  LYS A   48    6 ->  GLY A   52   10  3.0  139.2  142.1   30.7   69.2  ~~~~
+DNR  ALA A   49    7 ->  GLU A   45    3  3.1  152.3  119.5   17.1   56.5  ~~~~
+DNR  VAL A   50    8 ->  ASP A   46    4  3.0  157.9  120.3   13.3   65.5  ~~~~
+DNR  PHE A   51    9 ->  PHE A   47    5  3.0  162.9  124.3   11.5   83.4  ~~~~
+DNR  GLY A   52   10 ->  LYS A   48    6  3.0  139.2  142.1   30.7   69.2  ~~~~
+ACC  THR A   54   12 ->  ALA A   57   15  3.1  112.1  118.2   59.3   88.1  ~~~~
+ACC  THR A   54   12 ->  PHE A   58   16  3.0  161.4  121.2   10.3   49.7  ~~~~
+ACC  ARG A   55   13 ->  ALA A   59   17  3.0  155.6  120.3   26.2   73.2  ~~~~
+ACC  SER A   56   14 ->  ALA A   59   17  3.4   99.6  124.6   50.1   78.6  ~~~~
+DNR  ALA A   57   15 ->  THR A   54   12  3.1  112.1  118.2   59.3   88.1  ~~~~
+ACC  ALA A   57   15 ->  ASN A   60   18  3.0  118.4  133.0   18.2   73.2  ~~~~
+DNR  PHE A   58   16 ->  THR A   54   12  3.0  161.4  121.2   10.3   49.7  ~~~~
+ACC  PHE A   58   16 ->  LEU A   61   19  3.0  122.2  130.4   10.2   78.2  ~~~~
+DNR  ALA A   59   17 ->  ARG A   55   13  3.0  155.6  120.3   26.2   73.2  ~~~~
+DNR  ALA A   59   17 ->  SER A   56   14  3.4   99.6  124.6   50.1   78.6  ~~~~
+DNR  ASN A   60   18 ->  ALA A   57   15  3.0  118.4  133.0   18.2   73.2  ~~~~
+DNR  LEU A   61   19 ->  PHE A   58   16  3.0  122.2  130.4   10.2   78.2  ~~~~
+ACC  PRO A   62   20 ->  LYS A   65   23  3.0  115.9  126.7   49.4   81.8  ~~~~
+ACC  PRO A   62   20 ->  GLN A   66   24  3.0  166.5  113.1    8.6   29.1  ~~~~
+ACC  LEU A   63   21 ->  GLN A   67   25  3.1  154.7  118.4   11.3   62.6  ~~~~
+ACC  TRP A   64   22 ->  HIS A   68   26  3.0  147.4  121.8   14.0   59.7  ~~~~
+DNR  LYS A   65   23 ->  PRO A   62   20  3.0  115.9  126.7   49.4   81.8  ~~~~
+ACC  LYS A   65   23 ->  LEU A   69   27  3.0  158.6  122.0   12.2   85.9  ~~~~
+DNR  GLN A   66   24 ->  PRO A   62   20  3.0  166.5  113.1    8.6   29.1  ~~~~
+ACC  GLN A   66   24 ->  LEU A   69   27  3.4  105.4  113.6   59.4   86.3  ~~~~
+ACC  GLN A   66   24 ->  LYS A   70   28  3.0  155.4  125.1   11.3   76.7  ~~~~
+DNR  GLN A   67   25 ->  LEU A   63   21  3.1  154.7  118.4   11.3   62.6  ~~~~
+ACC  GLN A   67   25 ->  LYS A   71   29  3.0  159.2  123.0    9.0   61.2  ~~~~
+DNR  HIS A   68   26 ->  TRP A   64   22  3.0  147.4  121.8   14.0   59.7  ~~~~
+ACC  HIS A   68   26 ->  GLU A   72   30  3.0  159.4  123.2   13.1   71.6  ~~~~
+DNR  LEU A   69   27 ->  LYS A   65   23  3.0  158.6  122.0   12.2   85.9  ~~~~
+DNR  LEU A   69   27 ->  GLN A   66   24  3.4  105.4  113.6   59.4   86.3  ~~~~
+ACC  LEU A   69   27 ->  LYS A   73   31  3.4  142.8  111.8   36.6   66.4  ~~~~
+DNR  LYS A   70   28 ->  GLN A   66   24  3.0  155.4  125.1   11.3   76.7  ~~~~
+ACC  LYS A   70   28 ->  LYS A   73   31  3.0  115.9  129.4   36.5   82.2  ~~~~
+ACC  LYS A   70   28 ->  LEU A   75   33  3.0  139.0  128.1    6.2   84.9  ~~~~
+DNR  LYS A   71   29 ->  GLN A   67   25  3.0  159.2  123.0    9.0   61.2  ~~~~
+ACC  LYS A   71   29 ->  GLY A   74   32  3.0  110.4  133.7    0.7   88.6  ~~~~
+DNR  GLU A   72   30 ->  HIS A   68   26  3.0  159.4  123.2   13.1   71.6  ~~~~
+DNR  LYS A   73   31 ->  LEU A   69   27  3.4  142.8  111.8   36.6   66.4  ~~~~
+DNR  LYS A   73   31 ->  LYS A   70   28  3.0  115.9  129.4   36.5   82.2  ~~~~
+DNR  GLY A   74   32 ->  LYS A   71   29  3.0  110.4  133.7    0.7   88.6  ~~~~
+DNR  LEU A   75   33 ->  LYS A   70   28  3.0  139.0  128.1    6.2   84.9  ~~~~

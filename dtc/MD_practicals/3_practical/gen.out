@@ -1,0 +1,281 @@
+cntrl file 1yrf_eta1.586.cntrl successfully read into memory.
+
+Reading in 1yrf_chain_a.pdb and performing quality controls...
+
+No alternative coordinate sets found - proceeding with model generation.
+LEU 1 has the correct set of heavy atoms.
+SER 2 has the correct set of heavy atoms.
+ASP 3 has the correct set of heavy atoms.
+GLU 4 has the correct set of heavy atoms.
+ASP 5 has the correct set of heavy atoms.
+PHE 6 has the correct set of heavy atoms.
+LYS 7 has the correct set of heavy atoms.
+ALA 8 has the correct set of heavy atoms.
+VAL 9 has the correct set of heavy atoms.
+PHE 10 has the correct set of heavy atoms.
+GLY 11 has the correct set of heavy atoms.
+MET 12 has the correct set of heavy atoms.
+THR 13 has the correct set of heavy atoms.
+ARG 14 has the correct set of heavy atoms.
+SER 15 has the correct set of heavy atoms.
+ALA 16 has the correct set of heavy atoms.
+PHE 17 has the correct set of heavy atoms.
+ALA 18 has the correct set of heavy atoms.
+ASN 19 has the correct set of heavy atoms.
+LEU 20 has the correct set of heavy atoms.
+PRO 21 has the correct set of heavy atoms.
+LEU 22 has the correct set of heavy atoms.
+TRP 23 has the correct set of heavy atoms.
+LYS 24 has the correct set of heavy atoms.
+GLN 25 has the correct set of heavy atoms.
+GLN 26 has the correct set of heavy atoms.
+HIS 27 has the correct set of heavy atoms.
+LEU 28 has the correct set of heavy atoms.
+LYS 29 has the correct set of heavy atoms.
+LYS 30 has the correct set of heavy atoms.
+GLU 31 has the correct set of heavy atoms.
+LYS 32 has the correct set of heavy atoms.
+GLY 33 has the correct set of heavy atoms.
+LEU 34 has the correct set of heavy atoms.
+PHE 35 has the correct set of heavy atoms.
+
+Computing native contact energies and distances...
+
+sc-sc contact:     1 to     5; total energy for this contact:  0.133 kJ/mol; energy added at this step:  0.133 kJ/mol;
+sc-sc contact:     1 to     9; total energy for this contact:  9.290 kJ/mol; energy added at this step:  9.290 kJ/mol;
+sc-sc contact:     1 to    14; total energy for this contact:  3.384 kJ/mol; energy added at this step:  3.384 kJ/mol;
+sc-sc contact:     1 to    34; total energy for this contact:  9.357 kJ/mol; energy added at this step:  9.357 kJ/mol;
+sc-sc contact:     2 to     5; total energy for this contact:  3.915 kJ/mol; energy added at this step:  3.915 kJ/mol;
+sc-sc contact:     3 to    14; total energy for this contact:  8.693 kJ/mol; energy added at this step:  8.693 kJ/mol;
+sc-sc contact:     6 to    10; total energy for this contact:  9.423 kJ/mol; energy added at this step:  9.423 kJ/mol;
+sc-sc contact:     6 to    14; total energy for this contact:  3.451 kJ/mol; energy added at this step:  3.451 kJ/mol;
+sc-sc contact:     6 to    17; total energy for this contact:  9.423 kJ/mol; energy added at this step:  9.423 kJ/mol;
+sc-sc contact:     6 to    29; total energy for this contact:  3.252 kJ/mol; energy added at this step:  3.252 kJ/mol;
+sc-sc contact:     9 to    32; total energy for this contact:  2.920 kJ/mol; energy added at this step:  2.920 kJ/mol;
+sc-sc contact:     9 to    34; total energy for this contact:  9.290 kJ/mol; energy added at this step:  9.290 kJ/mol;
+sc-sc contact:    10 to    17; total energy for this contact:  9.423 kJ/mol; energy added at this step:  9.423 kJ/mol;
+sc-sc contact:    10 to    29; total energy for this contact:  3.252 kJ/mol; energy added at this step:  3.252 kJ/mol;
+sc-sc contact:    10 to    32; total energy for this contact:  3.252 kJ/mol; energy added at this step:  3.252 kJ/mol;
+sc-sc contact:    10 to    34; total energy for this contact:  9.157 kJ/mol; energy added at this step:  9.157 kJ/mol;
+sc-sc contact:    12 to    16; total energy for this contact:  5.508 kJ/mol; energy added at this step:  5.508 kJ/mol;
+sc-sc contact:    12 to    17; total energy for this contact:  9.887 kJ/mol; energy added at this step:  9.887 kJ/mol;
+sc-sc contact:    12 to    20; total energy for this contact:  8.494 kJ/mol; energy added at this step:  8.494 kJ/mol;
+sc-sc contact:    13 to    16; total energy for this contact:  3.981 kJ/mol; energy added at this step:  3.981 kJ/mol;
+sc-sc contact:    17 to    20; total energy for this contact:  9.157 kJ/mol; energy added at this step:  9.157 kJ/mol;
+sc-sc contact:    17 to    25; total energy for this contact:  4.247 kJ/mol; energy added at this step:  4.247 kJ/mol;
+sc-sc contact:    17 to    28; total energy for this contact:  9.157 kJ/mol; energy added at this step:  9.157 kJ/mol;
+sc-sc contact:    17 to    29; total energy for this contact:  3.252 kJ/mol; energy added at this step:  3.252 kJ/mol;
+sc-sc contact:    20 to    25; total energy for this contact:  3.451 kJ/mol; energy added at this step:  3.451 kJ/mol;
+sc-sc contact:    20 to    28; total energy for this contact:  9.357 kJ/mol; energy added at this step:  9.357 kJ/mol;
+sc-sc contact:    21 to    24; total energy for this contact:  3.185 kJ/mol; energy added at this step:  3.185 kJ/mol;
+sc-sc contact:    22 to    25; total energy for this contact:  3.451 kJ/mol; energy added at this step:  3.451 kJ/mol;
+sc-sc contact:    23 to    27; total energy for this contact:  7.034 kJ/mol; energy added at this step:  7.034 kJ/mol;
+sc-sc contact:    24 to    28; total energy for this contact:  2.920 kJ/mol; energy added at this step:  2.920 kJ/mol;
+sc-sc contact:    26 to    30; total energy for this contact:  5.309 kJ/mol; energy added at this step:  5.309 kJ/mol;
+sc-sc contact:    27 to    31; total energy for this contact:  4.711 kJ/mol; energy added at this step:  4.711 kJ/mol;
+sc-sc contact:    29 to    34; total energy for this contact:  2.920 kJ/mol; energy added at this step:  2.920 kJ/mol;
+sc-sc contact:    29 to    35; total energy for this contact:  3.252 kJ/mol; energy added at this step:  3.252 kJ/mol;
+bb-sc contact:     1 to    14; total energy for this contact:  4.932 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:     2 to     5; total energy for this contact:  5.463 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:     2 to     6; total energy for this contact:  1.548 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:     2 to    14; total energy for this contact:  1.548 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:     3 to     6; total energy for this contact:  1.548 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:     3 to     7; total energy for this contact:  1.548 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:     3 to    14; total energy for this contact: 10.241 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:     4 to     7; total energy for this contact:  1.548 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:     4 to     8; total energy for this contact:  1.548 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:     5 to     1; total energy for this contact:  1.681 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:     5 to     2; total energy for this contact:  7.011 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:     5 to     8; total energy for this contact:  1.548 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:     5 to     9; total energy for this contact:  1.548 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:     6 to     1; total energy for this contact:  1.548 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:     6 to     9; total energy for this contact:  1.548 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:     6 to    10; total energy for this contact: 10.971 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:     9 to    32; total energy for this contact:  4.468 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:    12 to     6; total energy for this contact:  1.548 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:    12 to     7; total energy for this contact:  1.548 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:    13 to     6; total energy for this contact:  1.548 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:    13 to    16; total energy for this contact:  5.530 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:    13 to    17; total energy for this contact:  1.548 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:    14 to     6; total energy for this contact:  4.999 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:    14 to    17; total energy for this contact:  1.548 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:    14 to    18; total energy for this contact:  1.548 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:    15 to    18; total energy for this contact:  1.548 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:    15 to    19; total energy for this contact:  1.548 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:    16 to    12; total energy for this contact:  7.056 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:    16 to    13; total energy for this contact:  7.078 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:    16 to    19; total energy for this contact:  1.548 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:    16 to    20; total energy for this contact:  1.548 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:    17 to    12; total energy for this contact: 11.435 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:    17 to    20; total energy for this contact: 10.706 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:    17 to    25; total energy for this contact:  5.795 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:    18 to    25; total energy for this contact:  1.548 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:    20 to    25; total energy for this contact:  4.999 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:    21 to    24; total energy for this contact:  4.733 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:    21 to    25; total energy for this contact:  1.548 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:    22 to    25; total energy for this contact:  4.999 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:    22 to    26; total energy for this contact:  1.548 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:    23 to    26; total energy for this contact:  1.548 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:    23 to    27; total energy for this contact:  8.582 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:    24 to    21; total energy for this contact:  6.281 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:    24 to    27; total energy for this contact:  1.548 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:    24 to    28; total energy for this contact:  4.468 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:    25 to    17; total energy for this contact:  7.343 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:    25 to    28; total energy for this contact:  1.548 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:    25 to    29; total energy for this contact:  1.548 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:    26 to    29; total energy for this contact:  1.548 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:    26 to    30; total energy for this contact:  6.857 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:    27 to    30; total energy for this contact:  1.548 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:    27 to    31; total energy for this contact:  6.260 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:    28 to    10; total energy for this contact:  1.548 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:    28 to    31; total energy for this contact:  1.548 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:    28 to    32; total energy for this contact:  1.548 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:    29 to    10; total energy for this contact:  4.800 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:    29 to    17; total energy for this contact:  4.800 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:    29 to    32; total energy for this contact:  1.548 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:    29 to    34; total energy for this contact:  4.468 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:    34 to    29; total energy for this contact:  6.016 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:    34 to    30; total energy for this contact:  1.548 kJ/mol; energy added at this step:  1.548 kJ/mol;
+bb-sc contact:    35 to    29; total energy for this contact:  4.800 kJ/mol; energy added at this step:  1.548 kJ/mol;
+
+Getting hydrogen bonding information with STRIDE...
+
+hydrogen bond:     2 to     6; total energy for this contact:  4.686 kJ/mol; energy added at this step:  3.138 kJ/mol;
+hydrogen bond:     3 to     7; total energy for this contact:  4.686 kJ/mol; energy added at this step:  3.138 kJ/mol;
+hydrogen bond:     4 to     8; total energy for this contact:  4.686 kJ/mol; energy added at this step:  3.138 kJ/mol;
+hydrogen bond:     5 to     9; total energy for this contact:  4.686 kJ/mol; energy added at this step:  3.138 kJ/mol;
+hydrogen bond:     6 to    10; total energy for this contact: 14.109 kJ/mol; energy added at this step:  3.138 kJ/mol;
+hydrogen bond:     7 to    11; total energy for this contact:  3.138 kJ/mol; energy added at this step:  3.138 kJ/mol;
+hydrogen bond:    13 to    16; total energy for this contact: 10.216 kJ/mol; energy added at this step:  3.138 kJ/mol;
+hydrogen bond:    13 to    17; total energy for this contact:  4.686 kJ/mol; energy added at this step:  3.138 kJ/mol;
+hydrogen bond:    14 to    18; total energy for this contact:  4.686 kJ/mol; energy added at this step:  3.138 kJ/mol;
+hydrogen bond:    15 to    18; total energy for this contact:  4.686 kJ/mol; energy added at this step:  3.138 kJ/mol;
+hydrogen bond:    16 to    19; total energy for this contact:  4.686 kJ/mol; energy added at this step:  3.138 kJ/mol;
+hydrogen bond:    17 to    20; total energy for this contact: 13.844 kJ/mol; energy added at this step:  3.138 kJ/mol;
+hydrogen bond:    21 to    24; total energy for this contact:  9.419 kJ/mol; energy added at this step:  3.138 kJ/mol;
+hydrogen bond:    21 to    25; total energy for this contact:  4.686 kJ/mol; energy added at this step:  3.138 kJ/mol;
+hydrogen bond:    22 to    26; total energy for this contact:  4.686 kJ/mol; energy added at this step:  3.138 kJ/mol;
+hydrogen bond:    23 to    27; total energy for this contact: 11.720 kJ/mol; energy added at this step:  3.138 kJ/mol;
+hydrogen bond:    24 to    28; total energy for this contact:  7.606 kJ/mol; energy added at this step:  3.138 kJ/mol;
+hydrogen bond:    25 to    28; total energy for this contact:  4.686 kJ/mol; energy added at this step:  3.138 kJ/mol;
+hydrogen bond:    25 to    29; total energy for this contact:  4.686 kJ/mol; energy added at this step:  3.138 kJ/mol;
+hydrogen bond:    26 to    30; total energy for this contact:  9.995 kJ/mol; energy added at this step:  3.138 kJ/mol;
+hydrogen bond:    27 to    31; total energy for this contact:  9.398 kJ/mol; energy added at this step:  3.138 kJ/mol;
+hydrogen bond:    28 to    32; total energy for this contact:  4.686 kJ/mol; energy added at this step:  3.138 kJ/mol;
+hydrogen bond:    29 to    32; total energy for this contact:  4.686 kJ/mol; energy added at this step:  3.138 kJ/mol;
+hydrogen bond:    29 to    34; total energy for this contact:  9.154 kJ/mol; energy added at this step:  3.138 kJ/mol;
+hydrogen bond:    30 to    33; total energy for this contact:  3.138 kJ/mol; energy added at this step:  3.138 kJ/mol;
+
+Final native contact summary:
+
+Contact between residues 1 and 5; distance is 5.85188 Angstroms; energy is 1.680796480 kJ/mol (or 0.401720000 kcal/mol)
+Contact between residues 1 and 6; distance is 5.94069 Angstroms; energy is 1.548080000 kJ/mol (or 0.370000000 kcal/mol)
+Contact between residues 1 and 9; distance is 9.50561 Angstroms; energy is 9.290153600 kJ/mol (or 2.220400000 kcal/mol)
+Contact between residues 1 and 14; distance is 10.51843 Angstroms; energy is 4.932350240 kJ/mol (or 1.178860000 kcal/mol)
+Contact between residues 1 and 34; distance is 9.65480 Angstroms; energy is 9.356511840 kJ/mol (or 2.236260000 kcal/mol)
+Contact between residues 2 and 5; distance is 5.11617 Angstroms; energy is 7.011296160 kJ/mol (or 1.675740000 kcal/mol)
+Contact between residues 2 and 6; distance is 6.13919 Angstroms; energy is 4.686080000 kJ/mol (or 1.120000000 kcal/mol)
+Contact between residues 2 and 14; distance is 10.08687 Angstroms; energy is 1.548080000 kJ/mol (or 0.370000000 kcal/mol)
+Contact between residues 3 and 6; distance is 5.03393 Angstroms; energy is 1.548080000 kJ/mol (or 0.370000000 kcal/mol)
+Contact between residues 3 and 7; distance is 6.23709 Angstroms; energy is 4.686080000 kJ/mol (or 1.120000000 kcal/mol)
+Contact between residues 3 and 14; distance is 7.14261 Angstroms; energy is 10.241009440 kJ/mol (or 2.447660000 kcal/mol)
+Contact between residues 4 and 7; distance is 5.27440 Angstroms; energy is 1.548080000 kJ/mol (or 0.370000000 kcal/mol)
+Contact between residues 4 and 8; distance is 6.33363 Angstroms; energy is 4.686080000 kJ/mol (or 1.120000000 kcal/mol)
+Contact between residues 5 and 8; distance is 4.98731 Angstroms; energy is 1.548080000 kJ/mol (or 0.370000000 kcal/mol)
+Contact between residues 5 and 9; distance is 6.11682 Angstroms; energy is 4.686080000 kJ/mol (or 1.120000000 kcal/mol)
+Contact between residues 6 and 9; distance is 5.16758 Angstroms; energy is 1.548080000 kJ/mol (or 0.370000000 kcal/mol)
+Contact between residues 6 and 10; distance is 5.94272 Angstroms; energy is 14.108950080 kJ/mol (or 3.372120000 kcal/mol)
+Contact between residues 6 and 12; distance is 7.69828 Angstroms; energy is 1.548080000 kJ/mol (or 0.370000000 kcal/mol)
+Contact between residues 6 and 13; distance is 6.90238 Angstroms; energy is 1.548080000 kJ/mol (or 0.370000000 kcal/mol)
+Contact between residues 6 and 14; distance is 7.00157 Angstroms; energy is 4.998708480 kJ/mol (or 1.194720000 kcal/mol)
+Contact between residues 6 and 17; distance is 9.78640 Angstroms; energy is 9.422870080 kJ/mol (or 2.252120000 kcal/mol)
+Contact between residues 6 and 29; distance is 10.23915 Angstroms; energy is 3.251553760 kJ/mol (or 0.777140000 kcal/mol)
+Contact between residues 7 and 11; distance is 5.09092 Angstroms; energy is 3.138000000 kJ/mol (or 0.750000000 kcal/mol)
+Contact between residues 7 and 12; distance is 4.90278 Angstroms; energy is 1.548080000 kJ/mol (or 0.370000000 kcal/mol)
+Contact between residues 9 and 32; distance is 7.83167 Angstroms; energy is 4.467842560 kJ/mol (or 1.067840000 kcal/mol)
+Contact between residues 9 and 34; distance is 10.04679 Angstroms; energy is 9.290153600 kJ/mol (or 2.220400000 kcal/mol)
+Contact between residues 10 and 17; distance is 8.12282 Angstroms; energy is 9.422870080 kJ/mol (or 2.252120000 kcal/mol)
+Contact between residues 10 and 28; distance is 7.92142 Angstroms; energy is 1.548080000 kJ/mol (or 0.370000000 kcal/mol)
+Contact between residues 10 and 29; distance is 8.22403 Angstroms; energy is 4.799633760 kJ/mol (or 1.147140000 kcal/mol)
+Contact between residues 10 and 32; distance is 8.41425 Angstroms; energy is 3.251553760 kJ/mol (or 0.777140000 kcal/mol)
+Contact between residues 10 and 34; distance is 10.69161 Angstroms; energy is 9.157437120 kJ/mol (or 2.188680000 kcal/mol)
+Contact between residues 12 and 16; distance is 6.06901 Angstroms; energy is 7.055813920 kJ/mol (or 1.686380000 kcal/mol)
+Contact between residues 12 and 17; distance is 6.53327 Angstroms; energy is 11.435457760 kJ/mol (or 2.733140000 kcal/mol)
+Contact between residues 12 and 20; distance is 11.12461 Angstroms; energy is 8.493854720 kJ/mol (or 2.030080000 kcal/mol)
+Contact between residues 13 and 16; distance is 5.16321 Angstroms; energy is 10.215654400 kJ/mol (or 2.441600000 kcal/mol)
+Contact between residues 13 and 17; distance is 6.23928 Angstroms; energy is 4.686080000 kJ/mol (or 1.120000000 kcal/mol)
+Contact between residues 14 and 17; distance is 5.02731 Angstroms; energy is 1.548080000 kJ/mol (or 0.370000000 kcal/mol)
+Contact between residues 14 and 18; distance is 6.03036 Angstroms; energy is 4.686080000 kJ/mol (or 1.120000000 kcal/mol)
+Contact between residues 15 and 18; distance is 5.23313 Angstroms; energy is 4.686080000 kJ/mol (or 1.120000000 kcal/mol)
+Contact between residues 15 and 19; distance is 7.02736 Angstroms; energy is 1.548080000 kJ/mol (or 0.370000000 kcal/mol)
+Contact between residues 16 and 19; distance is 5.54547 Angstroms; energy is 4.686080000 kJ/mol (or 1.120000000 kcal/mol)
+Contact between residues 16 and 20; distance is 7.46419 Angstroms; energy is 1.548080000 kJ/mol (or 0.370000000 kcal/mol)
+Contact between residues 17 and 20; distance is 5.55477 Angstroms; energy is 13.843517120 kJ/mol (or 3.308680000 kcal/mol)
+Contact between residues 17 and 25; distance is 6.89695 Angstroms; energy is 7.343087360 kJ/mol (or 1.755040000 kcal/mol)
+Contact between residues 17 and 28; distance is 9.55625 Angstroms; energy is 9.157437120 kJ/mol (or 2.188680000 kcal/mol)
+Contact between residues 17 and 29; distance is 10.26237 Angstroms; energy is 4.799633760 kJ/mol (or 1.147140000 kcal/mol)
+Contact between residues 18 and 25; distance is 7.34785 Angstroms; energy is 1.548080000 kJ/mol (or 0.370000000 kcal/mol)
+Contact between residues 20 and 25; distance is 6.25390 Angstroms; energy is 4.998708480 kJ/mol (or 1.194720000 kcal/mol)
+Contact between residues 20 and 28; distance is 10.04223 Angstroms; energy is 9.356511840 kJ/mol (or 2.236260000 kcal/mol)
+Contact between residues 21 and 24; distance is 5.16664 Angstroms; energy is 9.419355520 kJ/mol (or 2.251280000 kcal/mol)
+Contact between residues 21 and 25; distance is 6.34246 Angstroms; energy is 4.686080000 kJ/mol (or 1.120000000 kcal/mol)
+Contact between residues 22 and 25; distance is 5.11609 Angstroms; energy is 4.998708480 kJ/mol (or 1.194720000 kcal/mol)
+Contact between residues 22 and 26; distance is 6.33118 Angstroms; energy is 4.686080000 kJ/mol (or 1.120000000 kcal/mol)
+Contact between residues 23 and 26; distance is 5.08199 Angstroms; energy is 1.548080000 kJ/mol (or 0.370000000 kcal/mol)
+Contact between residues 23 and 27; distance is 6.14186 Angstroms; energy is 11.720053440 kJ/mol (or 2.801160000 kcal/mol)
+Contact between residues 24 and 27; distance is 4.86263 Angstroms; energy is 1.548080000 kJ/mol (or 0.370000000 kcal/mol)
+Contact between residues 24 and 28; distance is 5.97966 Angstroms; energy is 7.605842560 kJ/mol (or 1.817840000 kcal/mol)
+Contact between residues 25 and 28; distance is 5.26205 Angstroms; energy is 4.686080000 kJ/mol (or 1.120000000 kcal/mol)
+Contact between residues 25 and 29; distance is 6.15095 Angstroms; energy is 4.686080000 kJ/mol (or 1.120000000 kcal/mol)
+Contact between residues 26 and 29; distance is 5.29099 Angstroms; energy is 1.548080000 kJ/mol (or 0.370000000 kcal/mol)
+Contact between residues 26 and 30; distance is 6.14194 Angstroms; energy is 9.994739200 kJ/mol (or 2.388800000 kcal/mol)
+Contact between residues 27 and 30; distance is 5.15682 Angstroms; energy is 1.548080000 kJ/mol (or 0.370000000 kcal/mol)
+Contact between residues 27 and 31; distance is 6.01850 Angstroms; energy is 9.397515040 kJ/mol (or 2.246060000 kcal/mol)
+Contact between residues 28 and 31; distance is 5.14089 Angstroms; energy is 1.548080000 kJ/mol (or 0.370000000 kcal/mol)
+Contact between residues 28 and 32; distance is 6.48195 Angstroms; energy is 4.686080000 kJ/mol (or 1.120000000 kcal/mol)
+Contact between residues 29 and 32; distance is 5.24278 Angstroms; energy is 4.686080000 kJ/mol (or 1.120000000 kcal/mol)
+Contact between residues 29 and 34; distance is 4.93986 Angstroms; energy is 9.153922560 kJ/mol (or 2.187840000 kcal/mol)
+Contact between residues 29 and 35; distance is 5.90363 Angstroms; energy is 4.799633760 kJ/mol (or 1.147140000 kcal/mol)
+Contact between residues 30 and 33; distance is 4.84052 Angstroms; energy is 3.138000000 kJ/mol (or 0.750000000 kcal/mol)
+Contact between residues 30 and 34; distance is 5.26846 Angstroms; energy is 1.548080000 kJ/mol (or 0.370000000 kcal/mol)
+
+Computing effective interaction site sizes for non-native contacts...
+
+Repulsive sigma for residue 1 is 7.899 Angstroms.
+Repulsive sigma for residue 2 is 8.626 Angstroms.
+Repulsive sigma for residue 3 is 7.274 Angstroms.
+Repulsive sigma for residue 4 is 7.899 Angstroms.
+Repulsive sigma for residue 5 is 8.526 Angstroms.
+Repulsive sigma for residue 6 is 7.742 Angstroms.
+Repulsive sigma for residue 7 is 5.012 Angstroms.
+Repulsive sigma for residue 8 is 5.521 Angstroms.
+Repulsive sigma for residue 9 is 8.308 Angstroms.
+Repulsive sigma for residue 10 is 5.386 Angstroms.
+Repulsive sigma for residue 11 is 5.521 Angstroms.
+Repulsive sigma for residue 12 is 7.521 Angstroms.
+Repulsive sigma for residue 13 is 5.012 Angstroms.
+Repulsive sigma for residue 14 is 7.144 Angstroms.
+Repulsive sigma for residue 15 is 8.083 Angstroms.
+Repulsive sigma for residue 16 is 9.556 Angstroms.
+Repulsive sigma for residue 17 is 8.860 Angstroms.
+Repulsive sigma for residue 18 is 7.917 Angstroms.
+Repulsive sigma for residue 19 is 8.331 Angstroms.
+Repulsive sigma for residue 20 is 6.386 Angstroms.
+Repulsive sigma for residue 21 is 7.917 Angstroms.
+Repulsive sigma for residue 22 is 7.928 Angstroms.
+Repulsive sigma for residue 23 is 8.341 Angstroms.
+Repulsive sigma for residue 24 is 6.386 Angstroms.
+Repulsive sigma for residue 25 is 8.591 Angstroms.
+Repulsive sigma for residue 26 is 7.459 Angstroms.
+Repulsive sigma for residue 27 is 8.636 Angstroms.
+Repulsive sigma for residue 28 is 8.523 Angstroms.
+Repulsive sigma for residue 29 is 6.346 Angstroms.
+Repulsive sigma for residue 30 is 6.277 Angstroms.
+Repulsive sigma for residue 31 is 7.494 Angstroms.
+Repulsive sigma for residue 32 is 8.674 Angstroms.
+Repulsive sigma for residue 33 is 6.346 Angstroms.
+Repulsive sigma for residue 34 is 7.494 Angstroms.
+Repulsive sigma for residue 35 is 6.277 Angstroms.
+
+C-alpha CG model generated based on 1yrf_eta1.586.cntrl without issue.
+Run time: 0:00:00.836106

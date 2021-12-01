@@ -1,0 +1,11 @@
+# commonly edited parameters
+eta            = 1.586
+bundle         = False
+
+# model generation parameters
+outlabel       = 1yrf
+inputPDB       = 1yrf_chain_a.pdb
+chainID        = A
+diheParam      = cg_model/dataFiles/karanicolas_dihe_parm.dat
+LJparam        = cg_model/dataFiles/Betancourt-Thirumalai.dat
+stride         = cg_model/dataFiles/stride
